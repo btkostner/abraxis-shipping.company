@@ -1,0 +1,14 @@
+{
+  "name": "abraxis-shipping.company",
+  "version": "1.0.0",
+  "description": "Abraxis Shipping Company website",
+  "author": "Blake Kostner",
+  "private": true,
+  "scripts": {
+    "start": "nuxt dev",
+    "build": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  }
+}
