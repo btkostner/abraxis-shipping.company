@@ -1,17 +1,18 @@
 <template>
   <div class="container">
-    <h1>Star Citizen</h1>
+    <h1>Discord</h1>
 
     <p>
-      We have a Star Citizen organization. Not sure what else you need to know.
+      We have one of the youngest Discord servers still in use. It's very
+      active, and if you want to get ahold of us, this is the best way.
     </p>
 
     <a
-      href="https://robertsspaceindustries.com/orgs/ASCC"
+      href="https://discord.gg/vy8ktHC"
       target="_blank"
       rel="noopener"
     >
-      Join Our Organization
+      Join Discord Server
     </a>
   </div>
 </template>
@@ -23,7 +24,7 @@
   }
 
   a {
-    background-color: #2f4a63;
+    background-color: #8c9ffc;
     border-radius: 3px;
     color: #fff;
     display: block;
@@ -31,6 +32,6 @@
     padding: 1rem;
     text-align: center;
     text-decoration: none;
-    text-shadow: 0 1px 1px #0d1822;
+    text-shadow: 0 1px 1px #242738;
   }
 </style>

@@ -21,9 +21,5 @@ export default {
 
   css: [
     '~/assets/styles/main.css'
-  ],
-
-  plugins: [
-    '~/plugins/router.js'
   ]
 }

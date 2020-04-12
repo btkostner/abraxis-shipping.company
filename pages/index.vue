@@ -1,8 +1,8 @@
 <template>
   <div class="container">
-    <a class="discord" href="https://discord.abraxis-shipping.company">
+    <nuxt-link class="discord" to="/discord">
       Discord
-    </a>
+    </nuxt-link>
 
     <nuxt-link class="minecraft" to="/minecraft">
       Minecraft
