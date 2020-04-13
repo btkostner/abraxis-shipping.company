@@ -3,7 +3,7 @@
     <h1>Discord</h1>
 
     <p>
-      We have one of the youngest Discord servers still in use. It's very
+      We have one of the oldest Discord servers still in use. It's very
       active, and if you want to get ahold of us, this is the best way.
     </p>
 
