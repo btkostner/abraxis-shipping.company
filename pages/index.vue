@@ -4,10 +4,6 @@
       Discord
     </nuxt-link>
 
-    <nuxt-link class="minecraft" to="/minecraft">
-      Minecraft
-    </nuxt-link>
-
     <nuxt-link class="star-citizen" to="/star-citizen">
       Star Citizen
     </nuxt-link>
